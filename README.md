@@ -14,3 +14,4 @@ Yêu cầu chính:
     III. Khi End host A gửi yêu cầu tải file đến các end host chứa file, file tải về đúng và đủ 
     IV. Sau khi end host A tải file về, end host A sẽ cập nhật lại danh sách file lưu trữ lên server 
     V. End host A cho phép tải file đồng thời từ nhiều end host cùng một lúc. Chương trình hiển thị thời gian từ lúc gửi yêu cầu tìm file đến khi tải xong file
+......................................................................................................................................
